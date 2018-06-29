@@ -1,0 +1,11 @@
+E:\study\git\point24\calc24WithExpressionTree\Point24App\bin\Debug\Point24App.exe.config
+E:\study\git\point24\calc24WithExpressionTree\Point24App\obj\Debug\Point24App.csprojResolveAssemblyReference.cache
+E:\study\git\point24\calc24WithExpressionTree\Point24App\obj\Debug\Point24App.Form1.resources
+E:\study\git\point24\calc24WithExpressionTree\Point24App\obj\Debug\Point24App.Properties.Resources.resources
+E:\study\git\point24\calc24WithExpressionTree\Point24App\obj\Debug\Point24App.csproj.GenerateResource.Cache
+E:\study\git\point24\calc24WithExpressionTree\Point24App\bin\Debug\Point24App.exe
+E:\study\git\point24\calc24WithExpressionTree\Point24App\bin\Debug\Point24App.pdb
+E:\study\git\point24\calc24WithExpressionTree\Point24App\bin\Debug\calc24WithExpressionTree.exe
+E:\study\git\point24\calc24WithExpressionTree\Point24App\bin\Debug\calc24WithExpressionTree.pdb
+E:\study\git\point24\calc24WithExpressionTree\Point24App\obj\Debug\Point24App.exe
+E:\study\git\point24\calc24WithExpressionTree\Point24App\obj\Debug\Point24App.pdb

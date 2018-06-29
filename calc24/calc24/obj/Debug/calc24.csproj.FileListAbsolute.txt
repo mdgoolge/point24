@@ -1,0 +1,7 @@
+C:\Users\jk\AppData\Local\Temporary Projects\calc24\bin\Debug\calc24.exe.config
+E:\study\git\point24\calc24\calc24\bin\Debug\calc24.exe.config
+E:\study\git\point24\calc24\calc24\bin\Debug\calc24.exe
+E:\study\git\point24\calc24\calc24\bin\Debug\calc24.pdb
+E:\study\git\point24\calc24\calc24\obj\Debug\calc24.csprojResolveAssemblyReference.cache
+E:\study\git\point24\calc24\calc24\obj\Debug\calc24.exe
+E:\study\git\point24\calc24\calc24\obj\Debug\calc24.pdb

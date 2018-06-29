@@ -1,0 +1,7 @@
+C:\Users\jk\AppData\Local\Temporary Projects\calc24WithExpressionTree\bin\Debug\calc24WithExpressionTree.exe.config
+E:\study\git\point24\calc24WithExpressionTree\calc24WithExpressionTree\bin\Debug\calc24WithExpressionTree.exe.config
+E:\study\git\point24\calc24WithExpressionTree\calc24WithExpressionTree\bin\Debug\calc24WithExpressionTree.exe
+E:\study\git\point24\calc24WithExpressionTree\calc24WithExpressionTree\bin\Debug\calc24WithExpressionTree.pdb
+E:\study\git\point24\calc24WithExpressionTree\calc24WithExpressionTree\obj\Debug\calc24WithExpressionTree.exe
+E:\study\git\point24\calc24WithExpressionTree\calc24WithExpressionTree\obj\Debug\calc24WithExpressionTree.pdb
+E:\study\git\point24\calc24WithExpressionTree\calc24WithExpressionTree\obj\Debug\calc24WithExpressionTree.csprojResolveAssemblyReference.cache
